@@ -1,3 +1,49 @@
+## 🇬🇧 GUIDE IN ENGLISH 🇬🇧
+
+## SSD Wiper
+This C program is designed to wipe every sector of an SSD (or hard disk) on Windows systems. It writes zeros across the entire disk, effectively erasing all existing data.
+
+## Features
+Opens and accesses a physical disk (e.g., PhysicalDrive0).
+
+Retrieves the total disk size to calculate how much data to overwrite.
+
+Writes zeroes (0x00) to every sector (512 bytes per sector).
+
+Can be used to irreversibly erase disk data.
+
+## Usage
+Compile the program and run it as Administrator.
+
+The program will overwrite every sector on the disk with zeroes.
+
+## ⚠️ Use only in test environments or for disk sanitization. Running this on a real system will cause permanent data loss.
+
+## By default, it targets PhysicalDrive0. To use it on another drive, you’ll need to modify the code accordingly.
+
+## Warnings
+**Data loss**: This program will permanently erase all data on the targeted drive. Be sure to back up any important files before using it.
+
+**Test-only use**: Improper use may corrupt disks. Use strictly in safe or virtual environments.
+
+## Requirements
+Windows operating system.
+
+C compiler (e.g., GCC or Visual Studio).
+
+## Installation
+Compile the code using a C compiler.
+
+Run the resulting executable with administrator privileges.
+
+
+
+
+
+
+
+## 🇹🇷 TÜRKÇE REHBER 🇹🇷
+
 ## SSD Wiper
 Bu C programı, Windows sistemlerinde bir SSD'nin (veya sabit diskin) her sektörünü sıfırlamak için kullanılır. Program, diskin tüm verilerini sıfırlarla yazar ve böylece disk üzerindeki mevcut verileri tamamen siler.
 
