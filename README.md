@@ -1,3 +1,16 @@
+## English
+`Disclaimer`
+This software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. Use of this software is at your own risk. The author(s) shall not be held liable for any damages or data loss resulting from the use, misuse, or inability to use this software.
+
+By using this software, you acknowledge that you understand the risks and take full responsibility for any consequences.
+
+## Türkçe
+``Yasal Uyarı``
+Bu yazılım, herhangi bir açık veya zımni garanti olmaksızın, "olduğu gibi" sunulmaktadır; satılabilirlik, belirli bir amaca uygunluk veya hak ihlali gibi garantiler dahil ancak bunlarla sınırlı olmamak üzere hiçbir garanti verilmemektedir. Bu yazılımı kullanmak tamamen kendi sorumluluğunuzdadır. Yazar(lar), bu yazılımın kullanımı, yanlış kullanımı veya kullanılamamasından kaynaklanan herhangi bir veri kaybı veya zarardan sorumlu tutulamaz.
+
+Bu yazılımı kullanarak, riskleri anladığınızı ve tüm sonuçlardan tamamen sorumlu olduğunuzu kabul etmiş olursunuz.
+
+
 ## 🇬🇧 GUIDE IN ENGLISH 🇬🇧
 
 ## SSD Wiper
