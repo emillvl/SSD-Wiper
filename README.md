@@ -11,7 +11,7 @@ Diskin her sektörüne sıfır (0) yazar (512 byte per sektör).
 Verilerin geri dönüşümsüz şekilde silinmesi için kullanılabilir.
 
 ## Kullanım
-Programı derleyin ve çalıştırın. Bu işlem, diskinizin her sektörüne sıfır yazacaktır.
+Programı derleyin ve admin olarak çalıştırın. Bu işlem, diskinizin her sektörüne sıfır yazacaktır.
 
 Yalnızca test ortamlarında veya disk temizleme amacıyla kullanın. Gerçek verileri silmek ciddi veri kayıplarına yol açabilir.
 
@@ -30,4 +30,4 @@ C derleyicisi (örneğin, GCC veya Visual Studio).
 ## Kurulum
 Kodu bir C derleyicisi ile derleyin.
 
-Çalıştırılabilir dosyayı başlatın.
+Çalıştırılabilir dosyayı admin olarak başlatın.
